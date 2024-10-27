@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "474434041550",
+    "project_id": "hirun-6176b",
+    "storage_bucket": "hirun-6176b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474434041550:android:a4ffd038c878635a6dc29f",
+        "android_client_info": {
+          "package_name": "com.example.bn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474434041550-ona3ljp95t38el846u6fpjhnafiobhlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIPDyYybQQELZcGxEny13QBgc5wtytAQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474434041550-ona3ljp95t38el846u6fpjhnafiobhlp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "474434041550-0te41rr02s6v1680s0vn2fun853ghc44.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bn.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
